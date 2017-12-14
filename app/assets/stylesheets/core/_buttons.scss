@@ -1,0 +1,23 @@
+// Buttons
+// ===========================
+
+.btn {
+  background: #d7d7d7;
+  display: inline-block;
+  padding: $unit-l $unit-xl;
+  border-radius: $unit-m;
+  text-align: center;
+}
+
+.btn a {
+  text-decoration: none;
+  color: #fff;
+}
+
+.btn__primary {
+  background: #0072ac;
+}
+
+.btn__secondary {
+  background: #999999;
+}
